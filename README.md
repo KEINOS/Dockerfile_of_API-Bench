@@ -1,4 +1,4 @@
-[![](https://img.shields.io/docker/cloud/automated/keinos/api-bench.svg)](https://hub.docker.com/r/keinos/api-bench "View on Docker Hub") [![](https://img.shields.io/docker/cloud/build/keinos/api-bench.svg)](https://hub.docker.com/r/keinos/api-bench/builds "View builds on Docker Hub")
+[![](https://images.microbadger.com/badges/image/keinos/api-bench.svg)](https://microbadger.com/images/keinos/api-bench "View image info on microbadger.com") [![](https://img.shields.io/docker/cloud/automated/keinos/api-bench.svg)](https://hub.docker.com/r/keinos/api-bench "View on Docker Hub") [![](https://img.shields.io/docker/cloud/build/keinos/api-bench.svg)](https://hub.docker.com/r/keinos/api-bench/builds "View builds on Docker Hub")
 
 # Dockerfile of API-Bench
 
